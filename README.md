@@ -1,1 +1,1 @@
-# ScalaGurus
+# Scala Gurus

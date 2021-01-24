@@ -1,0 +1,43 @@
+{
+    "name": "scala-gurus",
+    "displayName": "Scala Extension Pack",
+    "version": "1.0.0",
+    "description": "VS Code extentions to boost Scala developers",
+    "publisher": "ravioshankar",
+    "icon": "assets/scala.jpg",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/ravioshankar/scala-gurus.git"
+    },
+    "keywords": [
+      "Python"
+    ],
+    "author": "ravioshankar",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/ravioshankar/scala-gurus/issues"
+    },
+    "homepage": "https://github.com/ravioshankar/scala-gurus/tree/master/vs-code-extention/#readme",
+    "engines": {
+      "vscode": "^1.52.1"
+    },
+    "categories": [
+      "Extension Packs"
+    ],
+    "extensionPack": [
+        "scala-lang.scala",
+        "scalameta.metals",
+        "vscjava.vscode-java-pack",
+        "scala-lang.scala-snippets",
+        "lampepfl.dotty",
+      "formulahendry.code-runner",
+      "eamodio.gitlens",
+      "visualstudioexptteam.vscodeintellicode",
+      "ms-azuretools.vscode-docker",
+      "ms-kubernetes-tools.vscode-kubernetes-tools",
+      "redhat.vscode-yaml",
+      "mindaro.mindaro",
+      "github.codespaces"
+    ]
+  }
+  
